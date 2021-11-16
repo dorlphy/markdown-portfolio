@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+I like
+1.Dogs
+🐕
+2.Cake
+i.Vanilla
+🥞
